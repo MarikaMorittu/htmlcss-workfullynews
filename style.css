@@ -1,0 +1,84 @@
+   /* Font primary */
+   *{
+       font-family: sans-serif;
+       font-size: 19px;
+   }
+   /* Header */
+   header{
+        width: auto;
+        height: 200px;
+        background-image: url(./img/pattern.png);
+        background-color: #00c8ff;
+    }
+    /*Header img */
+
+    header > img{
+        width: 300px;
+        height: 65px;
+        padding-left: 15px;
+        padding-top: 120px;
+    }
+
+    /* Padding */
+    main{
+        padding-left: 10px;
+        padding-bottom: 30px;
+    }
+
+    /* Font h1*/
+    section > h1 {
+        font-size: 40px;
+    }
+    
+    /* Color Workfully */
+    .color{
+        color: #00a2ff;
+    }
+    
+    /* First img */
+    section > img{
+        width: 700px;
+        height: 450px;
+        padding: 15px;
+    }
+    
+    /* Hlight */
+    .hlight{
+        background: yellow;
+    }
+    
+    /* Color h2 */
+    .color2{
+        color: gray;
+        font-size: 30px;
+    }
+
+    
+    /* Img Marck*/
+    .mz{
+        background-size: cover;
+        background-image: url(./img/marck-zuck.jpg);
+        width: 450px;
+        height: 300px;
+        color: white;
+    }
+    /* Img Padel */
+
+     .pp{
+        background-size: cover;
+        background-image: url(./img/padel-player.jpg);
+        width: 450px;
+        height: 300px;
+        color: white;
+    }
+    
+    /* Font img */
+    div >p{
+        font-size: 40px;
+    }
+    
+    /* Font footer */
+    footer{
+        text-align: center;
+        font-size: 20px;
+    }       
